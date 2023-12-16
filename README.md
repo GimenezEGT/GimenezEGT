@@ -1,8 +1,20 @@
-<img width=100% src = "https://capsule-render.vercel.app/api?type=waving&color=0C70F1&height=180&section=header&text=Escola%20DNC&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-<!-- img width = 200px src="https://theme.zdassets.com/theme_assets/10581808/55574aacd1b8552926cee18e21442964c7a8d53f.png"/ -->
+# Hello, there!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans&duration=1000&pause=1000&color=3FB81F&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Welcome!;My+name+is+Enrico+Gimenez.;Biologist%2C+Bioinformatician+and+Data+Scientist!)](https://git.io/typing-svg)
+
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans&weight=300&duration=1000&pause=1000&color=B2B60A&vCenter=true&multiline=true&random=false&width=435&lines=A+few+thing+I+can+handle%3A;Python;Pandas;Biopython;Excel;Data+Visualization)](https://git.io/typing-svg)
+
+
+
+
+
+
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GimenezEGT&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DNC github stats" /> 
