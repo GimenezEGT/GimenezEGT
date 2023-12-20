@@ -1,5 +1,5 @@
 # Hello, there!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=009003&vCenter=true&random=false&width=435&lines=My+name+is+Enrico+Gimenez!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000000&color=009003&vCenter=true&random=false&width=435&lines=My+name+is+Enrico+Gimenez!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=600&color=9BB100&vCenter=true&random=false&width=435&lines=Biologist;Msc.+in+Bioinformatics;Data+Scientist!)](https://git.io/typing-svg)
 
