@@ -30,3 +30,4 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Biopython](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBiopython&psig=AOvVaw0S28p1Tgl4No9jp1BaVKpQ&ust=1703178135521000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjekJK_noMDFQAAAAAdAAAAABAD)
