@@ -1,7 +1,7 @@
 # Hello, there! Welcome!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000000000000000000&color=009003&vCenter=true&random=false&width=435&lines=My+name+is+Enrico+Gimenez!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=600&color=9BB100&vCenter=true&random=false&width=435&lines=Biologist;Msc.+in+Bioinformatics;Data+Scientist!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=600&color=9BB100&vCenter=true&random=false&width=435&lines=Biologist;Msc.+in+Bioinformatics;Data+Scientist;Dev)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GimenezEGT&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Enrico github stats" /> 
